@@ -68,7 +68,9 @@ body {
     align-items: center;
     grid-template-rows: 1fr 1fr;
     grid-gap: 10px;
+    margin-bottom: 30px;
   }
+  
   input[type=submit] {
       width: 200px;
       background-color: #4CAF50;
@@ -219,6 +221,7 @@ body {
     
     footer {
       margin-top: 65px; 
+      float: right;
     }
   }
   
