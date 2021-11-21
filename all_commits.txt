@@ -1,3 +1,28 @@
+commit a9089900e6d1fa8a066029d6dc608263ba2b0422
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 19:17:34 2021 +0200
+
+    chacking some spelling issue
+
+commit 29a90224ed7900b5cb3b0051d82d483809d2f48d
+Merge: 1b38138 c35fa6c
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 19:02:40 2021 +0200
+
+    Merge branch 'master' of https://github.com/joseph07-drack/Microverse-Trial-Project
+
+commit 1b38138d931170ab525e786bc33daf06cb74ca35
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 19:01:48 2021 +0200
+
+    adding the all_commits.txt files that contains the listo of all commits done by Buin Joseph and Anas
+
+commit c35fa6c506942b185844f7424a7c749153038e0b
+Author: Anas Khafegui <anas.mdhat@outlook.com>
+Date:   Sun Nov 21 19:00:25 2021 +0200
+
+    fix my username
+
 commit 74e873ca09df22060546dce3c66ce47b843a25b3
 Author: JoDrack <buingojoseph24@gmail.com>
 Date:   Sun Nov 21 18:55:05 2021 +0200
