@@ -1,0 +1,89 @@
+commit a2ec9c5cd7d962819f2f2e12592b72342851130b
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 18:50:54 2021 +0200
+
+    fixing some arrangements issues
+
+commit 19a9372d12d6d4d9fcfed62201f8eb3614920ad3
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 18:22:27 2021 +0200
+
+    adding the remaing html elements
+
+commit 49a5d149e30f136167645c66437f21f41324058b
+Author: unknown <anas.mdhat@outlook.com>
+Date:   Sun Nov 21 18:17:29 2021 +0200
+
+    add story 13 , 14
+
+commit dcf5a13eae9d4c3ab5ceefd627a1c193b60ce96e
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 18:09:31 2021 +0200
+
+    adding story #11 and 12
+
+commit 732ffdb36ddf3a7cb2b31ec131671941855059e2
+Author: unknown <anas.mdhat@outlook.com>
+Date:   Sun Nov 21 18:07:07 2021 +0200
+
+    add story 9 , 10
+
+commit 1ea362ad3e403d5ba736492b34ceddfda3eb2a8a
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 18:05:23 2021 +0200
+
+    adding story #7 and 8
+
+commit ad8cf37585c69bcfb9f5951831e7a4185a62bd47
+Author: unknown <anas.mdhat@outlook.com>
+Date:   Sun Nov 21 18:03:09 2021 +0200
+
+    add story 5 , 6
+
+commit abba1e7f7e1401df7cef5c3132889bb56a7389b8
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 17:58:24 2021 +0200
+
+    adding the story #3 and #4
+
+commit 0f7b9df6f130d16ede0cf98517b7a11748e3675a
+Author: unknown <anas.mdhat@outlook.com>
+Date:   Sun Nov 21 17:54:20 2021 +0200
+
+    add story 1 , 2
+
+commit 0f283b97e93ebf9421491df3a4d7fb671a13fb8e
+Author: JoDrack <buingojoseph24@gmail.com>
+Date:   Sun Nov 21 17:50:00 2021 +0200
+
+    changing the hello world
+
+commit 4e36a548f5800fff429cc795dbd234fb7dd6f3c1
+Author: unknown <anas.mdhat@outlook.com>
+Date:   Sun Nov 21 17:44:08 2021 +0200
+
+    type hello world
+
+commit 8952ac85d13a1c5d8d5ed8b21599be79670ab660
+Author: Ariel Camus <arielcamus@users.noreply.github.com>
+Date:   Mon Jan 7 15:15:32 2019 +0100
+
+    Updates README
+
+commit 5567d82c2e7e663d1fcb4ce390a740a4afd19db4
+Author: Ariel Camus <arielcamus@users.noreply.github.com>
+Date:   Mon Jan 7 15:13:44 2019 +0100
+
+    Updates README with fork information
+
+commit b67ec63b981fb362d5d74a8000d8cb87c2258ac0
+Author: Ariel Camus <arielcamus@gmail.com>
+Date:   Mon Dec 10 16:19:37 2018 +0530
+
+    Changes readme to markdown
+
+commit 6396dfba88d4b214dcd9e1ea12fc1167dcf6ee99
+Author: Ariel Camus <arielcamus@gmail.com>
+Date:   Mon Dec 10 16:18:40 2018 +0530
+
+    Adds basic files
